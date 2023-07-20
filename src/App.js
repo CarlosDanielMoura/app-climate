@@ -37,8 +37,6 @@ function App() {
   const [climate, setClimate] = useState("");
 
   const handleClickSearch = async () => {
-    // q=Coromandel&units=metric&appid=7b8c0d8073cfe57c6d7f8765a07c55e6&lang=pt
-
     try {
       const response = await api.get(
         `?q=${search}&units=metric&appid=7b8c0d8073cfe57c6d7f8765a07c55e6&lang=pt`
