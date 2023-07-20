@@ -1,6 +1,6 @@
 
 # Página de clima
-![Foto Climate](./src/assets/Sistema Climte.png)
+![Foto Climate](./src/assets/SistemaCliamate.png)
 ## 🚀 Tecnologias
 
 Neste projeto, foram utilizadas as seguintes tecnologias:
